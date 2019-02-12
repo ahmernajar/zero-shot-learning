@@ -122,5 +122,8 @@ you can use any of them but i have tested the model on above mentioned models
 In Data-Collection file there is a file namely automate.py which automatically runs all the required files 
 for data-collection, conecting to the bebop etc
 
+As the bebop collects the data in .npy in 5D
+and to use it in LSTM first apply the Randon Transform to frame and the use lstm it work fine then
+
 
 
