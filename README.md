@@ -2,7 +2,7 @@
 
 Zero shot learning consists in training a machine/agent with little training data and then test it on a  similar or random environment 
 
-In this respository i have used four methods to solve the zero shot learning problem on UAV
+In this respository i have used three methods to solve the zero shot learning problem on UAV
 I do this project on Parrot-BeBop-2 Drone
 
 
@@ -111,6 +111,16 @@ Some Scipts have to be changed according to your laptop state and configuration:
 *** REFER TO VIDEO[automationInAction.mp4] FOR MORE DETAILS***
 
 ```
+
+
+There are three models which you can use namely cnn,lrcn,lstm
+Also contains a python file modles.py in which all the models are define
+you can use any of them but i have tested the model on above mentioned models
+
+
+# Data Collection
+In Data-Collection file there is a file namely automate.py which automatically runs all the required files 
+for data-collection, conecting to the bebop etc
 
 
 
