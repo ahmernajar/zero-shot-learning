@@ -3,7 +3,7 @@
 Zero shot learning consists in training a machine/agent with little training data and then test it on a  similar or random environment 
 
 In this respository i have used three methods to solve the zero shot learning problem on UAV
-I do this project on Parrot-BeBop-2 Drone
+ I do this project on Parrot-BeBop-2 Drone
 
 
 # REQUIRMENTS
